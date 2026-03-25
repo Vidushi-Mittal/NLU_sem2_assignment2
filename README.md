@@ -19,7 +19,7 @@ To run the scripts, ensure you have Python 3.8+ installed along with the followi
 ---
 
 ## 📄 Problem 1: Learning Word Embeddings from IIT Jodhpur Data
-**Files:** `M25MAC014_prob1.py`, `Q1.ipynb`
+**Files:** `M25MAC014_prob1.py`, `M25MAC014_prob1.ipynb`
 
 ### Objective
 To construct a domain-specific text corpus by scraping the official IIT Jodhpur website and PDF documents, and to train and evaluate Word2Vec embeddings (CBOW and Skip-gram) on this corpus.
@@ -42,7 +42,7 @@ To construct a domain-specific text corpus by scraping the official IIT Jodhpur 
 ---
 
 ## 📄 Problem 2: Character-Level Name Generation Using RNN Variants
-**Files:** `M25MAC014_prob2.py`, `Q2.ipynb`
+**Files:** `M25MAC014_prob2.py`, `M25MAC014_prob2.ipynb`
 
 ### Objective
 To design, implement from scratch, and compare different sequence models for character-level synthetic Indian name generation.
